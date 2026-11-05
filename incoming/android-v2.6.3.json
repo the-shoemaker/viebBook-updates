@@ -1,0 +1,11 @@
+{
+  "tag": "android-v2.6.3",
+  "asset": "viebBook-android-2.6.3.apk",
+  "entry": "viebBook-android-2.6.3-6f43bde.apk",
+  "artifact_url": "https://productionresultssa12.blob.core.windows.net/actions-results/16102b90-4b54-8bd9-a96e-5c3c57c25a6b/workflow-job-run-bcea386c-ba03-5c72-8d26-c46ffa7e85b6/artifacts/2c886de24a41059fd5d8f3733312af3bc28f26bdd25321933b71e0965e74f2cd.zip?rscd=attachment%3B+filename%3D%22viebBook-apk.zip%22&rsct=application%2Fzip&se=2026-11-05T20%3A59%3A40Z&sig=ijzr%2BC4k63BOqNg7zR50hgWBzIW9ZpgGO15KhStCbXk%3D&ske=2026-11-06T00%3A07%3A53Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-11-05T20%3A07%3A53Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-11-05T20%3A49%3A35Z&sv=2025-11-05",
+  "artifact_digest": "b34e8c2dddff06e862b1fb98bcee53b2bb3f2e11617a0d8d6fa974a24d5e317a",
+  "size": 83217464,
+  "sha256": "fb50ec67df5e9fdf71cdbe50b6bb43deb087d4fd669a9110335a7728b17550f0",
+  "title": "viebBook Android 2.6.3",
+  "notes": "Notes are grouped by book with full-text search, compact previews, book/type filters, changed/created/title/source sorting, deleted-note recovery and version history. Page and exercise favourites open their source. Learning filters show open, incorrect or all exercises. Answer history preserves drafts when sync changes an open editor.\n\nIncludes local-only full reset, encrypted offline unpair recovery, bounded clearable reader caching, central page/exercise swipes, long-title selectors and smoother transfer progress. Large archives use resumable bounded ranges when supported by the Mac, with full SHA verification and legacy fallback.\n\nBuilt online by GitHub Actions. The core regression suite and stable signing certificate are checked before publishing. Android 10 or newer. Built-in updates verify the installer; Android asks for installation approval. Matching-signature updates preserve books and answers.\n"
+}
