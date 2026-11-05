@@ -1,0 +1,11 @@
+{
+  "tag": "android-v2.6.2",
+  "asset": "viebBook-android-2.6.2.apk",
+  "entry": "viebBook-android-2.6.2-a2c6983.apk",
+  "artifact_url": "https://productionresultssa9.blob.core.windows.net/actions-results/0c2fac03-bb94-87fc-a4a7-f0c28ea702af/workflow-job-run-286af896-761a-5f3c-b48a-d0a34db24cec/artifacts/2c886de24a41059fd5d8f3733312af3bc28f26bdd25321933b71e0965e74f2cd.zip?rscd=attachment%3B+filename%3D%22viebBook-apk.zip%22&rsct=application%2Fzip&se=2026-11-05T18%3A26%3A59Z&sig=4gMfHjvtBVUYbCNdle5ERntVDeDxUOOlQzgRKNaeQQw%3D&ske=2026-11-05T20%3A22%3A22Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-11-05T16%3A22%3A22Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-11-05T18%3A16%3A54Z&sv=2025-11-05",
+  "artifact_digest": "9144e254ccafd9f087d5072b3a99a8006c406641fbb7a0cbef58de2f43170b49",
+  "size": 82922556,
+  "sha256": "bad0502813577b4a2c17ce98f485a469907aead8a6fabd707ed14b437b630d92",
+  "title": "viebBook Android 2.6.2",
+  "notes": "Built-in updates check the public release feed and verify APK checksums, package versions and the installed signing certificate before opening Android's installer. Automatic checks run daily when opening the app and can be disabled in Settings.\n\nIncludes scan-first setup, direct QR scanning and clear download/unpacking progress with pause and resume controls. Built online by GitHub Actions and checked against the stable viebBook signing certificate. Android 10 or newer. Android asks for installation approval; matching-signature updates preserve books and answers.\n"
+}
