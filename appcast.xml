@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>viebBook</title><link>https://github.com/the-shoemaker/viebBook-updates/releases</link><description>Signierte Updates für viebBook auf macOS.</description><language>de</language></channel></rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <item>
+      <title>viebBook 2.6.4</title>
+      <pubDate>Thu, 05 Nov 2026 18:21:45 +0000</pubDate>
+      <sparkle:version>345</sparkle:version>
+      <sparkle:shortVersionString>2.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>Mac 2.6.4 corrects the updater's access to its feed and installers. Signed updates are now served from a separate public downloads repository, while the application's source repository stays private. GitHub Actions verifies the archive and Ed25519 signature before public publication.
+
+Includes the 2.6.3 improvements: reliable sidebar dragging with a column-aligned preview and freely moving pointer; taller arrangement sheet and clearer advanced settings inputs; cached AI connection/model information; a compact chat input with Shift-Enter for newlines; and simpler QR pairing.
+
+Validation: native drag, composer and Settings checks passed. The complete app bundle and Sparkle helpers passed strict code-signature verification. The public feed was checked without credentials, and both private and public signing verifiers accepted a real signed archive.
+
+Apple silicon, macOS 14 or newer. LAN sync requires macOS 15. Ad-hoc signed: use right-click → Open on the first launch if macOS asks. Older builds pointing at the private update feed need this one manual installation.
+</description>
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.4/viebBook-2.6.4.dmg" length="12936771" type="application/octet-stream" sparkle:edSignature="RN6TBaLL3rLxBplndT02NBc4XCVTliLq44IOeL772Blo7/BurcknIoJxHnKA2oWFFqheSBtq7IbwFiYoxQBkDA==" />
+    </item>
+    <title>viebBook</title>
+    <link>https://github.com/the-shoemaker/viebBook-updates/releases</link>
+    <description>Signierte Updates für viebBook auf macOS.</description>
+    <language>de</language>
+  </channel>
+</rss>
