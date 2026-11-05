@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>viebBook 2.6.8</title>
+      <pubDate>Thu, 05 Nov 2026 23:12:04 +0000</pubDate>
+      <sparkle:version>378</sparkle:version>
+      <sparkle:shortVersionString>2.6.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>The pairing sheet has a cleaner fixed layout with aligned network, address and code details and copy controls. The whole Weitere Optionen row now toggles instantly. QR pixels stay cached when options or hover state change, and generation runs off the main actor. Small windows keep scrolling and content padding.
+
+QR payload, error correction and quiet zone are unchanged. Close or Escape cancels pairing. Mac release 2.6.8. Forty pairing/security tests and two native QR/presentation tests passed, including full-row clicks, fixed dimensions, rendered QR decoding, light/dark layouts and short-window scrolling.
+</description>
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.8/viebBook-2.6.8.dmg" length="13074691" type="application/octet-stream" sparkle:edSignature="7h2CSM4UzZDPkuT/eH9fsuVgqXDLTTnFIKoYDJaa32EDeU06oYYNZn/jWzfbFP5ahGsfg3gwbZEn3lgoRC/5Cw==" />
+    </item>
+    <item>
       <title>viebBook 2.6.7</title>
       <pubDate>Thu, 05 Nov 2026 20:53:51 +0000</pubDate>
       <sparkle:version>362</sparkle:version>
