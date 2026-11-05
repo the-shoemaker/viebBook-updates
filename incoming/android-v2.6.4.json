@@ -1,0 +1,11 @@
+{
+  "tag": "android-v2.6.4",
+  "asset": "viebBook-android-2.6.4.apk",
+  "entry": "viebBook-android-2.6.4-8c6b7d5.apk",
+  "artifact_url": "https://productionresultssa13.blob.core.windows.net/actions-results/feff1286-fef5-8a49-8281-b23fbc8c020c/workflow-job-run-c37eff86-3d38-526c-ab2a-e1c4f5629bae/artifacts/2c886de24a41059fd5d8f3733312af3bc28f26bdd25321933b71e0965e74f2cd.zip?rscd=attachment%3B+filename%3D%22viebBook-apk.zip%22&rsct=application%2Fzip&se=2026-11-05T21%3A45%3A24Z&sig=awbl8Xj4chBEThM4C2sIXrDLCwPIAQQM%2B9puUJJ69%2BI%3D&ske=2026-11-05T23%3A54%3A37Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-11-05T19%3A54%3A37Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-11-05T21%3A35%3A19Z&sv=2025-11-05",
+  "artifact_digest": "28ff4ea2dbb09872663abf30d4143aa501d0c94518fd08fe1d4840c456d4d489",
+  "size": 83250236,
+  "sha256": "e75def77308c54d0174df94becccc59d91d4998b71f303734b85d8280ca6ade3",
+  "title": "viebBook Android 2.6.4",
+  "notes": "Reader headings are smaller and justified prose is start-aligned while centred/right data and rich-text answers retain their formatting. The new reader menu shortcut opens the current book part with the current page centred in its contents. Forward and reverse paging were checked after scrolling tall pages.\n\nNotes are grouped by book with full-text search, compact previews, book/type filters, changed/created/title/source sorting, deleted-note recovery and version history. Page and exercise favourites open their source. Learning filters show open, incorrect or all exercises. Answer history preserves drafts when sync changes an open editor.\n\nIncludes local-only full reset, encrypted offline unpair recovery, bounded clearable reader caching, central page/exercise swipes, long-title selectors and smoother transfer progress. Large archives use resumable bounded ranges when supported by the Mac, with full SHA verification and legacy fallback.\n\nBuilt online by GitHub Actions. The core regression suite and stable signing certificate are checked before publishing. Android 10 or newer. Built-in updates verify the installer; Android asks for installation approval. Matching-signature updates preserve books and answers.\n"
+}
