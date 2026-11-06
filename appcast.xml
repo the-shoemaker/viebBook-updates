@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>viebBook 2.6.10</title>
+      <pubDate>Fri, 06 Nov 2026 02:10:04 +0000</pubDate>
+      <sparkle:version>388</sparkle:version>
+      <sparkle:shortVersionString>2.6.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>Drawing previews now have no bright outline, including the background image edge. Dark canvases use the cooler app gray. The page theme is applied before parsing and the native drawing host starts with the same background, removing the white-to-dark flash. Stored artwork and original images stay unchanged.
+
+Mac2.6.10. Seventeen targeted tests passed, including actual WebKit initial-parser theme state and drawing/save checks.
+
+SHA-256: `2a87067fa7d8b6c2747f0b24670674d9ab478c3ed7d734ab17b68b510b02e914`
+</description>
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.10/viebBook-2.6.10.dmg" length="12273682" type="application/octet-stream" sparkle:edSignature="ZbqZLWCiFDywgPMycrDTBGBUpJVU0I4598J1UmqOEP98N1UPaeOSVpJef+yTg7xH1elfvP3IGWOqlfGPUz5vAw==" />
+    </item>
+    <item>
       <title>viebBook 2.6.9</title>
       <pubDate>Fri, 06 Nov 2026 01:44:53 +0000</pubDate>
       <sparkle:version>385</sparkle:version>
@@ -56,28 +71,6 @@ Release publishing now authenticates GitHub metadata requests to avoid anonymous
 Mac release 2.6.6. Seven focused cache and settings-persistence tests passed.
 </description>
       <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.6/viebBook-2.6.6.dmg" length="12219967" type="application/octet-stream" sparkle:edSignature="mD1pmHqe0uNOenuwy9USDaTVJE0TBy48sq0K5mWPZCFvFS83xyo0+XovXKGpTD05enhfN0rlZ202sa4TwC5GCw==" />
-    </item>
-    <item>
-      <title>viebBook 2.6.5</title>
-      <pubDate>Thu, 05 Nov 2026 18:48:17 +0000</pubDate>
-      <sparkle:version>349</sparkle:version>
-      <sparkle:shortVersionString>2.6.5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>Mac 2.6.5 polishes sidebar dragging, Search and device pairing.
-
-- The dragged book replaces its original row, stays aligned to the sidebar, and glides into its destination on release. The insertion line and freely moving pointer are retained.
-- Haptic profiles use one native tap instead of repeated pulse bursts. Rapid boundary jitter is filtered out.
-- Search sits below a plain title bar with aligned controls and cleaner surfaces. Volltext/Titel can be selected before typing and the selection survives page changes. Long result titles stay bounded with full-title tooltips.
-- The pairing sheet has fixed header/footer areas and a scrolling body, preserving padding when extra options expand. QR paper and its quiet zone use one mild off-white shade with sharp black modules. Helper copy is shorter.
-
-Includes signed Sparkle updates from the public downloads repository, cached AI readiness/model information, compact chat input with Shift-Enter newlines, clearer advanced settings inputs and the taller sidebar arrangement sheet.
-
-Validation: seven native drag, single-tap haptic and search tests passed; three QR tests passed, including decoding and uniform, unblurred paper/module checks. Dark and light Search/Settings fixtures were inspected. Release app and Sparkle framework signatures were verified.
-
-Apple silicon, macOS 14 or newer. LAN sync requires macOS 15. Ad-hoc signed: use right-click → Open on first installation if macOS asks. Older builds with the private update URL require one manual installation.
-</description>
-      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.5/viebBook-2.6.5.dmg" length="12955007" type="application/octet-stream" sparkle:edSignature="XqcxUOHeCGfGEY82xYFT3F1FOvdypmRJ7Ep3Pdb9eLGeDpsNrAhR0P4nRc/JWMsFGQCcKwwzgghuIhx4AISMCw==" />
     </item>
     <title>viebBook</title>
     <link>https://github.com/the-shoemaker/viebBook-updates/releases</link>
