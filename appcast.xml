@@ -2,25 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
-      <title>viebBook 2.7.2</title>
-      <pubDate>Fri, 06 Nov 2026 16:38:25 +0000</pubDate>
-      <sparkle:version>440</sparkle:version>
-      <sparkle:shortVersionString>2.7.2</sparkle:shortVersionString>
+      <title>viebBook 2.7.3</title>
+      <pubDate>Fri, 06 Nov 2026 16:42:57 +0000</pubDate>
+      <sparkle:version>444</sparkle:version>
+      <sparkle:shortVersionString>2.7.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>Lernkarten lassen sich aus mehreren ausgewählten Kapiteln in einem gemeinsamen benannten Set erstellen. Die Erstellung arbeitet jedes Kapitel einzeln ab und speichert erst, wenn alle Kapitel fertig sind.
+      <description>Die Suchauswahl «Volltext» und «Titel» reagiert nun auf die gesamte Fläche des jeweiligen Segments, auch ohne Suchtext.
 
-Ganze Set-Karten öffnen das Lernen. Grössere Lern-Buttons sowie Drei-Punkt- und Rechtsklick-Menüs bieten Umbenennen, Kapitel bearbeiten, neu erstellen, Duplizieren, TSV-Export und Löschen.
+Enthält die Lernkarten- und Bibliotheksverbesserungen aus 2.7.2: gemeinsame Sets aus mehreren Kapiteln, Umbenennen und weitere Set-Verwaltung, überarbeitete Lernansicht sowie «Buch löschen …» mit nativer Papierkorb-Aktion und Bestätigung. Ein Import aus beook fügt gelöschte Bücher wieder hinzu, Antworten/Notizen/Sets bleiben erhalten.
 
-Das Lernfenster hat eine integrierte Titelleiste, schnelle 3D-Drehung, sichere Abstände und einen dezenten grünen Antwortschimmer. Die Kartenwechsel sind kürzer und schneller.
+Die Veröffentlichung des signierten Mac-Updatefeeds verwendet einen verfügbaren Intel-Runner und einen expliziten SSH-Transport für den öffentlichen Installer. macOS 2.7.3, Build 444.
 
-Bücher lassen sich per Rechtsklick aus der Seitenleiste ausblenden oder über «Buch löschen …» entfernen. Die native Papierkorb-Aktion öffnet eine Bestätigung. Antworten, Notizen und Sets bleiben erhalten; der nächste Import aus beook fügt das Buch wieder hinzu. Das Löschen schützt geteilte Medien anderer Bücher und aktualisiert die synchronisierte Bibliothek.
-
-Lokale Builds und heruntergeladene Updates werden in Applications installiert. macOS 2.7.2, Build 440. Sync-Schema 4 bleibt unverändert.
-
-SHA-256: `e01346971a71cbbadbf431d6ddb41d05463589a4f2ab88947836a1ae79dd88f8`
+SHA-256: `6a22ff92a781ec9a8165f5f68ec555d4a03305e2965a76fc21f8d3fb0951e2cf`
 </description>
-      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.2/viebBook-2.7.2.dmg" length="12846525" type="application/octet-stream" sparkle:edSignature="MG/vifvc8yumZBL9IW7WEg95rfx0gyryzYpebIyEOtpQ/HaNOERRU8cu4JkQTOY6gClvdrZrlF6WojtvvNahAQ==" />
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.3/viebBook-2.7.3.dmg" length="12849709" type="application/octet-stream" sparkle:edSignature="4GlStomJG+vBuQabz7WCOrcsAgXvb7YdNE8Qwia6CjED8AkHGGA6S0ypCbsyEXywLHXUXmOSY8SaZD9E/PbdDQ==" />
     </item>
     <item>
       <title>viebBook 2.7.0</title>
