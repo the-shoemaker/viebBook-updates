@@ -1,0 +1,11 @@
+{
+  "tag": "android-v2.7.1",
+  "asset": "viebBook-android-2.7.1.apk",
+  "entry": "viebBook-android-2.7.1-a372e21.apk",
+  "artifact_url": "https://productionresultssa16.blob.core.windows.net/actions-results/f5864549-e33c-8597-8748-53175409c801/workflow-job-run-c3f1994e-0896-5f1a-8c88-d485ab3c67c7/artifacts/2c886de24a41059fd5d8f3733312af3bc28f26bdd25321933b71e0965e74f2cd.zip?rscd=attachment%3B+filename%3D%22viebBook-apk.zip%22&rsct=application%2Fzip&se=2026-11-06T16%3A34%3A10Z&sig=rRlbU4%2BkLrlOcthfQTLY4nhDjm4M6LhGaq0FeNVTilk%3D&ske=2026-11-06T19%3A13%3A45Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-11-06T15%3A13%3A45Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-11-06T16%3A24%3A05Z&sv=2025-11-05",
+  "artifact_digest": "a3f6f25f14ae8414a49b9bf144da019dacc211fd69e2d77ffdb81e5260f5cf10",
+  "size": 83828531,
+  "sha256": "bb95588a8eaf37d3096c75bc986c3fc8230a06a61a89aad9fcb971d70aa54c35",
+  "title": "viebBook Android 2.7.1",
+  "notes": "Lernkarten now have a prominent entry near the top of Lernen and a separate searchable set library. Open the whole set card to study; use its menu or long-press to rename, duplicate, export or remove a set. Changes sync with your other devices, including sets that combine several chapters.\n\nThe study controls fit narrow phones and larger text. Answer buttons have their own row, navigation stays below, flips are faster and card transitions move only a short distance.\n\nBuilt online by GitHub Actions after core regression tests and stable signing-certificate verification. Android 10 or newer. Built-in updates verify the installer and ask Android for installation approval. Matching-signature updates preserve books and answers.\n"
+}
