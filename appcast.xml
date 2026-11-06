@@ -2,6 +2,18 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>viebBook 2.6.11</title>
+      <pubDate>Fri, 06 Nov 2026 02:44:23 +0000</pubDate>
+      <sparkle:version>390</sparkle:version>
+      <sparkle:shortVersionString>2.6.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>Exercise filters now open beside the filter button instead of replacing the reader. The compact light/dark popover includes progress and correctness segments, difficulty/type/keyword menus, a live result count and reset. Classic layout remains compatible. Verified with 13 targeted filter and native UI checks.
+SHA-256: `de39defcae4a95429677f3e9e91247f9f8748d78f54814ab89df49eabdfbcd2e`
+</description>
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.11/viebBook-2.6.11.dmg" length="12311474" type="application/octet-stream" sparkle:edSignature="ljqnelE0jwsCaL0MUwR5hQZgj0+PCHjW6q3ikAgKWm4I/hbQfkJ9UehbJ/ELlckf7mYkUu8Blill2aL+oxbfCg==" />
+    </item>
+    <item>
       <title>viebBook 2.6.10</title>
       <pubDate>Fri, 06 Nov 2026 02:10:04 +0000</pubDate>
       <sparkle:version>388</sparkle:version>
@@ -58,19 +70,6 @@ Includes the 2.6.6 AI panel fix: login status and model lists stay cached across
 Release publishing now authenticates GitHub metadata requests to avoid anonymous shared-runner rate limits. Mac 2.6.7, build 362. Six focused AI cache and sync-copy tests passed.
 </description>
       <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.7/viebBook-2.6.7.dmg" length="12223895" type="application/octet-stream" sparkle:edSignature="mIjTk9TgpCT1+8T4rGiLQuOaTRsKolU2eGEphWL7PowVVm1McwBf3x7EtF5Gm5g+ak0Dx8l65f/KOsH29pJuAQ==" />
-    </item>
-    <item>
-      <title>viebBook 2.6.6</title>
-      <pubDate>Thu, 05 Nov 2026 19:32:20 +0000</pubDate>
-      <sparkle:version>353</sparkle:version>
-      <sparkle:shortVersionString>2.6.6</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>AI settings and chat panels now share cached login status and model lists. Reopening a panel keeps the saved provider and model visible. Leaving a view no longer discards a lookup or starts another model request. Failed refreshes retain the last good result; Prüfen explicitly refreshes it. Model-picker loading no longer rewrites settings.
-
-Mac release 2.6.6. Seven focused cache and settings-persistence tests passed.
-</description>
-      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.6/viebBook-2.6.6.dmg" length="12219967" type="application/octet-stream" sparkle:edSignature="mD1pmHqe0uNOenuwy9USDaTVJE0TBy48sq0K5mWPZCFvFS83xyo0+XovXKGpTD05enhfN0rlZ202sa4TwC5GCw==" />
     </item>
     <title>viebBook</title>
     <link>https://github.com/the-shoemaker/viebBook-updates/releases</link>
