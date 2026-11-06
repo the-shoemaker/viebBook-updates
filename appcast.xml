@@ -2,6 +2,27 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>viebBook 2.7.2</title>
+      <pubDate>Fri, 06 Nov 2026 16:38:25 +0000</pubDate>
+      <sparkle:version>440</sparkle:version>
+      <sparkle:shortVersionString>2.7.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>Lernkarten lassen sich aus mehreren ausgewählten Kapiteln in einem gemeinsamen benannten Set erstellen. Die Erstellung arbeitet jedes Kapitel einzeln ab und speichert erst, wenn alle Kapitel fertig sind.
+
+Ganze Set-Karten öffnen das Lernen. Grössere Lern-Buttons sowie Drei-Punkt- und Rechtsklick-Menüs bieten Umbenennen, Kapitel bearbeiten, neu erstellen, Duplizieren, TSV-Export und Löschen.
+
+Das Lernfenster hat eine integrierte Titelleiste, schnelle 3D-Drehung, sichere Abstände und einen dezenten grünen Antwortschimmer. Die Kartenwechsel sind kürzer und schneller.
+
+Bücher lassen sich per Rechtsklick aus der Seitenleiste ausblenden oder über «Buch löschen …» entfernen. Die native Papierkorb-Aktion öffnet eine Bestätigung. Antworten, Notizen und Sets bleiben erhalten; der nächste Import aus beook fügt das Buch wieder hinzu. Das Löschen schützt geteilte Medien anderer Bücher und aktualisiert die synchronisierte Bibliothek.
+
+Lokale Builds und heruntergeladene Updates werden in Applications installiert. macOS 2.7.2, Build 440. Sync-Schema 4 bleibt unverändert.
+
+SHA-256: `e01346971a71cbbadbf431d6ddb41d05463589a4f2ab88947836a1ae79dd88f8`
+</description>
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.2/viebBook-2.7.2.dmg" length="12846525" type="application/octet-stream" sparkle:edSignature="MG/vifvc8yumZBL9IW7WEg95rfx0gyryzYpebIyEOtpQ/HaNOERRU8cu4JkQTOY6gClvdrZrlF6WojtvvNahAQ==" />
+    </item>
+    <item>
       <title>viebBook 2.7.0</title>
       <pubDate>Fri, 06 Nov 2026 15:32:14 +0000</pubDate>
       <sparkle:version>427</sparkle:version>
@@ -55,19 +76,6 @@ Mac 2.6.9. Thirteen targeted document and real WebKit drawing tests passed.
 SHA-256: `b4c2d6604b1fe294199ef4e6499f41d02356f059b860b3ad3c2f46b0354a26c4`
 </description>
       <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.9/viebBook-2.6.9.dmg" length="12273960" type="application/octet-stream" sparkle:edSignature="yLD/zHxhenSX1Yad1M+sAc1XDcEkC1zyRAMxGGi0M1aJvNNdIhFHXdF0AgjeUrTa/4pxbMnssk/5Y190RuBIAA==" />
-    </item>
-    <item>
-      <title>viebBook 2.6.8</title>
-      <pubDate>Thu, 05 Nov 2026 23:12:04 +0000</pubDate>
-      <sparkle:version>378</sparkle:version>
-      <sparkle:shortVersionString>2.6.8</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>The pairing sheet has a cleaner fixed layout with aligned network, address and code details and copy controls. The whole Weitere Optionen row now toggles instantly. QR pixels stay cached when options or hover state change, and generation runs off the main actor. Small windows keep scrolling and content padding.
-
-QR payload, error correction and quiet zone are unchanged. Close or Escape cancels pairing. Mac release 2.6.8. Forty pairing/security tests and two native QR/presentation tests passed, including full-row clicks, fixed dimensions, rendered QR decoding, light/dark layouts and short-window scrolling.
-</description>
-      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.8/viebBook-2.6.8.dmg" length="13074691" type="application/octet-stream" sparkle:edSignature="7h2CSM4UzZDPkuT/eH9fsuVgqXDLTTnFIKoYDJaa32EDeU06oYYNZn/jWzfbFP5ahGsfg3gwbZEn3lgoRC/5Cw==" />
     </item>
     <title>viebBook</title>
     <link>https://github.com/the-shoemaker/viebBook-updates/releases</link>
