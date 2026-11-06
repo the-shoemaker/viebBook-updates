@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>viebBook 2.6.9</title>
+      <pubDate>Fri, 06 Nov 2026 01:44:53 +0000</pubDate>
+      <sparkle:version>385</sparkle:version>
+      <sparkle:shortVersionString>2.6.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>Drawings now stay within their background frame when drawing or moving shapes. Previews use the saved canvas proportions without the extra bottom strip. The drawing canvas and preview follow the book page theme, while stored artwork stays unchanged. Publisher QR codes in book content are smaller; QR invoices retain their size.
+
+Mac 2.6.9. Thirteen targeted document and real WebKit drawing tests passed.
+
+SHA-256: `b4c2d6604b1fe294199ef4e6499f41d02356f059b860b3ad3c2f46b0354a26c4`
+</description>
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.9/viebBook-2.6.9.dmg" length="12273960" type="application/octet-stream" sparkle:edSignature="yLD/zHxhenSX1Yad1M+sAc1XDcEkC1zyRAMxGGi0M1aJvNNdIhFHXdF0AgjeUrTa/4pxbMnssk/5Y190RuBIAA==" />
+    </item>
+    <item>
       <title>viebBook 2.6.8</title>
       <pubDate>Thu, 05 Nov 2026 23:12:04 +0000</pubDate>
       <sparkle:version>378</sparkle:version>
@@ -63,23 +78,6 @@ Validation: seven native drag, single-tap haptic and search tests passed; three 
 Apple silicon, macOS 14 or newer. LAN sync requires macOS 15. Ad-hoc signed: use right-click → Open on first installation if macOS asks. Older builds with the private update URL require one manual installation.
 </description>
       <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.5/viebBook-2.6.5.dmg" length="12955007" type="application/octet-stream" sparkle:edSignature="XqcxUOHeCGfGEY82xYFT3F1FOvdypmRJ7Ep3Pdb9eLGeDpsNrAhR0P4nRc/JWMsFGQCcKwwzgghuIhx4AISMCw==" />
-    </item>
-    <item>
-      <title>viebBook 2.6.4</title>
-      <pubDate>Thu, 05 Nov 2026 18:21:45 +0000</pubDate>
-      <sparkle:version>345</sparkle:version>
-      <sparkle:shortVersionString>2.6.4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>Mac 2.6.4 corrects the updater's access to its feed and installers. Signed updates are now served from a separate public downloads repository, while the application's source repository stays private. GitHub Actions verifies the archive and Ed25519 signature before public publication.
-
-Includes the 2.6.3 improvements: reliable sidebar dragging with a column-aligned preview and freely moving pointer; taller arrangement sheet and clearer advanced settings inputs; cached AI connection/model information; a compact chat input with Shift-Enter for newlines; and simpler QR pairing.
-
-Validation: native drag, composer and Settings checks passed. The complete app bundle and Sparkle helpers passed strict code-signature verification. The public feed was checked without credentials, and both private and public signing verifiers accepted a real signed archive.
-
-Apple silicon, macOS 14 or newer. LAN sync requires macOS 15. Ad-hoc signed: use right-click → Open on the first launch if macOS asks. Older builds pointing at the private update feed need this one manual installation.
-</description>
-      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.4/viebBook-2.6.4.dmg" length="12936771" type="application/octet-stream" sparkle:edSignature="RN6TBaLL3rLxBplndT02NBc4XCVTliLq44IOeL772Blo7/BurcknIoJxHnKA2oWFFqheSBtq7IbwFiYoxQBkDA==" />
     </item>
     <title>viebBook</title>
     <link>https://github.com/the-shoemaker/viebBook-updates/releases</link>
