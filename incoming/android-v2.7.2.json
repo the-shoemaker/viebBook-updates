@@ -1,0 +1,11 @@
+{
+  "tag": "android-v2.7.2",
+  "asset": "viebBook-android-2.7.2.apk",
+  "entry": "viebBook-android-2.7.2-d0aaf9f.apk",
+  "artifact_url": "https://productionresultssa6.blob.core.windows.net/actions-results/8f931d2e-62c6-8c41-b033-7bb00ae8d3e3/workflow-job-run-e4ffeaf7-8928-599b-a069-b87faa683269/artifacts/2c886de24a41059fd5d8f3733312af3bc28f26bdd25321933b71e0965e74f2cd.zip?rscd=attachment%3B+filename%3D%22viebBook-apk.zip%22&rsct=application%2Fzip&se=2026-11-12T09%3A48%3A57Z&sig=Pcnz0NuErnQcpLOFZPJGc4C09KvwNDpOB7zYLdIjg9A%3D&ske=2026-11-12T12%3A57%3A41Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-11-12T08%3A57%3A41Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-11-12T09%3A38%3A52Z&sv=2025-11-05",
+  "artifact_digest": "93efe1b180e838291489c64e4a5c32cde0a6cf7e03dafd2f71ed5fce0acfc5b4",
+  "size": 84090760,
+  "sha256": "80d3624d259fc587fbfa5dadc9d8af050b46c37219df54d0a9a96251f974b202",
+  "title": "viebBook Android 2.7.2",
+  "notes": "Lernen now supports book-independent study packages from learning objectives. Import a PDF, photo or text to create a study guide, flashcards, a self-test and a mock exam with feedback and points. AI requests use the paired Mac, and saved packages sync with updated devices.\n\nBuilt online by GitHub Actions after core regression tests and stable signing-certificate verification. Android 10 or newer. Built-in updates verify the installer and ask Android for installation approval. Matching-signature updates preserve books and answers.\n"
+}
