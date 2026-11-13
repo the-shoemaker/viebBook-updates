@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>viebBook 2.7.11</title>
+      <pubDate>Fri, 13 Nov 2026 21:40:07 +0000</pubDate>
+      <sparkle:version>538</sparkle:version>
+      <sparkle:shortVersionString>2.7.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>### Gras in 3D-Szenen
+
+Ein Darstellungsfehler bei Grashalmen wurde behoben. Die Halme behalten ihre natürliche Farbe und bewegen sich bei Wind.
+</description>
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.11/viebBook-2.7.11.dmg" length="24253998" type="application/octet-stream" sparkle:edSignature="ybYiVhYfwMgYSr0tk6BS+grNMxDAXhtF6IecID+e5QC+HeJGWz81IUYsDbH5+O1MAVZQPBcEO+Vuy5MZ6ZUnAw==" />
+    </item>
+    <item>
       <title>viebBook 2.7.10</title>
       <pubDate>Fri, 13 Nov 2026 21:25:33 +0000</pubDate>
       <sparkle:version>536</sparkle:version>
@@ -63,19 +76,6 @@ Die Veröffentlichung des signierten Mac-Updatefeeds verwendet einen verfügbare
 SHA-256: `6a22ff92a781ec9a8165f5f68ec555d4a03305e2965a76fc21f8d3fb0951e2cf`
 </description>
       <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.3/viebBook-2.7.3.dmg" length="12849709" type="application/octet-stream" sparkle:edSignature="4GlStomJG+vBuQabz7WCOrcsAgXvb7YdNE8Qwia6CjED8AkHGGA6S0ypCbsyEXywLHXUXmOSY8SaZD9E/PbdDQ==" />
-    </item>
-    <item>
-      <title>viebBook 2.7.0</title>
-      <pubDate>Fri, 06 Nov 2026 15:32:14 +0000</pubDate>
-      <sparkle:version>427</sparkle:version>
-      <sparkle:shortVersionString>2.7.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>Lernkarten: the AI writes flash cards for a chapter (sidebar «Lernkarten» or the chapter's menu in the table of contents). Study each deck in its own window: a card that flips, «Gewusst» / «Nochmal», a round summary with «Nochmal üben», and TSV export for Anki. Decks sync to the phones (user schema 4): update the Android app to 2.7.0 too, since 2.6 phones and a 2.7 Mac no longer sync with each other. Verified with 841 Mac tests, a real generation and the Android emulator.
-SHA-256: `251a5f90a74b555ede15578d0911d928716eff6ba2291c05fcf18bfa033ade54`
-
-</description>
-      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.0/viebBook-2.7.0.dmg" length="12686840" type="application/octet-stream" sparkle:edSignature="jY3c4C7df5ydxaHcojfAGAAA4yKuqPc59IURY5PvDBYqIEdKhLZTd7r3B+k0qIT00xIS0RKqd83VVBulpWEhCw==" />
     </item>
     <title>viebBook</title>
     <link>https://github.com/the-shoemaker/viebBook-updates/releases</link>
