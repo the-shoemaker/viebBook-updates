@@ -1,0 +1,11 @@
+{
+  "tag": "android-v2.7.3",
+  "asset": "viebBook-android-2.7.3.apk",
+  "entry": "viebBook-android-2.7.3-570a1f9.apk",
+  "artifact_url": "https://productionresultssa32.blob.core.windows.net/actions-results/ca3e6287-e9a1-40ee-a20d-f2c63cff4c5f/workflow-job-run-b157cdea-f467-51c7-94af-e5b54944db90/artifacts/2c886de24a41059fd5d8f3733312af3bc28f26bdd25321933b71e0965e74f2cd.zip?rscd=attachment%3B+filename%3D%22viebBook-apk.zip%22&rsct=application%2Fzip&se=2026-11-13T11%3A41%3A23Z&sig=4kCgwt0HWhx1a5cjN6yG1HXQkU8oHr6PgY89wkFCXwU%3D&ske=2026-11-13T14%3A58%3A43Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-11-13T10%3A58%3A43Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-11-13T11%3A31%3A18Z&sv=2025-11-05",
+  "artifact_digest": "9753d7ccce291b189b88b1b9f861e512b413e9641f8ae202e16cb3f531415342",
+  "size": 84550556,
+  "sha256": "c2f9bd99746d2b5f9e8e2431cfec41c1bdef9b8473055072d3ade8916f74a29c",
+  "title": "viebBook Android 2.7.3",
+  "notes": "Choose the first activity in a Lernset and preview the attached photo before starting. The first activity opens while the paired Mac generates the rest in the background. Add notes and combine existing flashcards without AI. Lernsets sync with your connected devices.\n\nBuilt online by GitHub Actions after core regression tests and stable signing-certificate verification. Android 10 or newer. Built-in updates verify the installer and ask Android for installation approval. Matching-signature updates preserve books and answers.\n"
+}
