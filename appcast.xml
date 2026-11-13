@@ -2,6 +2,23 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>viebBook 2.7.10</title>
+      <pubDate>Fri, 13 Nov 2026 21:25:33 +0000</pubDate>
+      <sparkle:version>536</sparkle:version>
+      <sparkle:shortVersionString>2.7.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>### Mehr Klarheit in 3D-Szenen
+
+- Bodenmarkierungen benachbarter Gruppen haben dieselbe Schriftgrösse und bleiben ausserhalb der Bewegungswege. Gruppenbeschriftungen bleiben bei wenig Platz besser lesbar.
+- 3D-Szenen öffnen sich ruhiger: Zuerst erscheint der Hintergrund, dann das Modell und zuletzt die Seitenleiste. Aussenbereiche erhalten gerichtetes Licht und eine feinere Grasoberfläche.
+- Wenn ein Korrekturversuch ungültig ist, kann die KI mit der letzten darstellbaren Szene und der bisherigen Rückmeldung weiterarbeiten.
+
+macOS 14 oder neuer · Apple Silicon
+</description>
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.10/viebBook-2.7.10.dmg" length="24252717" type="application/octet-stream" sparkle:edSignature="nvAsGlEpUxoG0m0ZE+isf2lvZogT3V9931RJo3Zb/A6Q/4k3GmI2Ihw8Q3OfJ5MIgIg0Ml1iV3Qt0WWXpk+vBA==" />
+    </item>
+    <item>
       <title>viebBook 2.7.9</title>
       <pubDate>Fri, 13 Nov 2026 20:59:21 +0000</pubDate>
       <sparkle:version>534</sparkle:version>
@@ -59,18 +76,6 @@ SHA-256: `251a5f90a74b555ede15578d0911d928716eff6ba2291c05fcf18bfa033ade54`
 
 </description>
       <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.0/viebBook-2.7.0.dmg" length="12686840" type="application/octet-stream" sparkle:edSignature="jY3c4C7df5ydxaHcojfAGAAA4yKuqPc59IURY5PvDBYqIEdKhLZTd7r3B+k0qIT00xIS0RKqd83VVBulpWEhCw==" />
-    </item>
-    <item>
-      <title>viebBook 2.6.11</title>
-      <pubDate>Fri, 06 Nov 2026 02:44:23 +0000</pubDate>
-      <sparkle:version>390</sparkle:version>
-      <sparkle:shortVersionString>2.6.11</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>Exercise filters now open beside the filter button instead of replacing the reader. The compact light/dark popover includes progress and correctness segments, difficulty/type/keyword menus, a live result count and reset. Classic layout remains compatible. Verified with 13 targeted filter and native UI checks.
-SHA-256: `de39defcae4a95429677f3e9e91247f9f8748d78f54814ab89df49eabdfbcd2e`
-</description>
-      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.6.11/viebBook-2.6.11.dmg" length="12311474" type="application/octet-stream" sparkle:edSignature="ljqnelE0jwsCaL0MUwR5hQZgj0+PCHjW6q3ikAgKWm4I/hbQfkJ9UehbJ/ELlckf7mYkUu8Blill2aL+oxbfCg==" />
     </item>
     <title>viebBook</title>
     <link>https://github.com/the-shoemaker/viebBook-updates/releases</link>
