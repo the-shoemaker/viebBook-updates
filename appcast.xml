@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>viebBook 2.7.12</title>
+      <pubDate>Sun, 15 Nov 2026 00:16:08 +0000</pubDate>
+      <sparkle:version>541</sparkle:version>
+      <sparkle:shortVersionString>2.7.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>## Schneller zurück ins Buch
+
+- Beim Wechsel zwischen geöffneten Büchern und Lernen bleibt deine Leseposition erhalten.
+- In den Einstellungen zeigt «Speicher &amp; 3D» die Speicherbelegung und Vorschauen gespeicherter 3D-Modelle. Einzelne Modelle lassen sich direkt verwalten.
+- Im Versionsverlauf hat jede Veröffentlichung eine eigene Karte.
+- Beschriftungen und Prozentwerte sind in 3D-Szenen mittig ausgerichtet.
+</description>
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.12/viebBook-2.7.12.dmg" length="24296828" type="application/octet-stream" sparkle:edSignature="moGLavm54nw3zssiELuhQs+Ir9Nly6VuUs/wCsC+4S4IiAZIkMQqIxqY5L3wDTMkfi+hdUD+r3XsIHUQw3kEBQ==" />
+    </item>
+    <item>
       <title>viebBook 2.7.11</title>
       <pubDate>Fri, 13 Nov 2026 21:40:07 +0000</pubDate>
       <sparkle:version>538</sparkle:version>
@@ -59,23 +75,6 @@ macOS 14 oder neuer · Apple Silicon
 Die Version ergänzt interaktive Diagramme und 3D-Lernmodelle, Last Minute, wiederaufnehmbare Übungsrunden, eine überarbeitete Suche und viebBook-Bundles für Bibliothek und Lernfortschritt.
 </description>
       <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.4/viebBook-2.7.4.dmg" length="19864596" type="application/octet-stream" sparkle:edSignature="jEQICLivl3kjBCH7w3+gMRh6wG8UbcQTBebVSy+26vRE255dKmHAmQNcqYZpxXeoxNerQC0IXAJf7vYoYmqvBA==" />
-    </item>
-    <item>
-      <title>viebBook 2.7.3</title>
-      <pubDate>Fri, 06 Nov 2026 16:42:57 +0000</pubDate>
-      <sparkle:version>444</sparkle:version>
-      <sparkle:shortVersionString>2.7.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>Die Suchauswahl «Volltext» und «Titel» reagiert nun auf die gesamte Fläche des jeweiligen Segments, auch ohne Suchtext.
-
-Enthält die Lernkarten- und Bibliotheksverbesserungen aus 2.7.2: gemeinsame Sets aus mehreren Kapiteln, Umbenennen und weitere Set-Verwaltung, überarbeitete Lernansicht sowie «Buch löschen …» mit nativer Papierkorb-Aktion und Bestätigung. Ein Import aus beook fügt gelöschte Bücher wieder hinzu, Antworten/Notizen/Sets bleiben erhalten.
-
-Die Veröffentlichung des signierten Mac-Updatefeeds verwendet einen verfügbaren Intel-Runner und einen expliziten SSH-Transport für den öffentlichen Installer. macOS 2.7.3, Build 444.
-
-SHA-256: `6a22ff92a781ec9a8165f5f68ec555d4a03305e2965a76fc21f8d3fb0951e2cf`
-</description>
-      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.3/viebBook-2.7.3.dmg" length="12849709" type="application/octet-stream" sparkle:edSignature="4GlStomJG+vBuQabz7WCOrcsAgXvb7YdNE8Qwia6CjED8AkHGGA6S0ypCbsyEXywLHXUXmOSY8SaZD9E/PbdDQ==" />
     </item>
     <title>viebBook</title>
     <link>https://github.com/the-shoemaker/viebBook-updates/releases</link>
