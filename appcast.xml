@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>viebBook 2.8.0</title>
+      <pubDate>Sun, 15 Nov 2026 16:03:46 +0000</pubDate>
+      <sparkle:version>550</sparkle:version>
+      <sparkle:shortVersionString>2.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>## Geräte verbinden und unterwegs synchronisieren
+
+- Verbinde dein iPhone oder Android-Gerät mit einem QR-Code. Beim Verbinden kannst du den Sync-Server einschalten oder lokal fortfahren.
+- Mit aktiviertem Sync-Server funktioniert auch der erste Download ausserhalb deines Netzwerks. Deine Änderungen können übertragen werden, wenn das andere Gerät offline ist.
+- Abgehakte Lernziele, Lernkartenbewertungen und bereits vergebene Punkte erscheinen auf deinen gekoppelten Geräten.
+- Die Einstellungen zeigen Synchronisierung und verbundene Geräte in getrennten Bereichen.
+</description>
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.8.0/viebBook-2.8.0.dmg" length="24805415" type="application/octet-stream" sparkle:edSignature="lvcSg5AW3qAA648s/eCDVgn/WlNcfKB99DoThM5Id3ULkK9CSxA+zeTnzzRF0Lu/VVyRut73JSrq/bOoJBNdAg==" />
+    </item>
+    <item>
       <title>viebBook 2.7.14</title>
       <pubDate>Sun, 15 Nov 2026 12:47:06 +0000</pubDate>
       <sparkle:version>547</sparkle:version>
@@ -61,22 +77,6 @@ Ein Darstellungsfehler bei Grashalmen wurde behoben. Die Halme behalten ihre nat
 macOS 14 oder neuer · Apple Silicon
 </description>
       <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.10/viebBook-2.7.10.dmg" length="24252717" type="application/octet-stream" sparkle:edSignature="nvAsGlEpUxoG0m0ZE+isf2lvZogT3V9931RJo3Zb/A6Q/4k3GmI2Ihw8Q3OfJ5MIgIg0Ml1iV3Qt0WWXpk+vBA==" />
-    </item>
-    <item>
-      <title>viebBook 2.7.9</title>
-      <pubDate>Fri, 13 Nov 2026 20:59:21 +0000</pubDate>
-      <sparkle:version>534</sparkle:version>
-      <sparkle:shortVersionString>2.7.9</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>## Lernen mit mehr Übersicht
-
-- Ergänze ein Lernziel mit mehreren Diagrammen und 3D-Modellen. Überarbeite einzelne Darstellungen direkt oder gib der KI eine eigene Vorgabe.
-- 3D-Szenen öffnen sich mit einer abgestuften Animation. Überarbeitete Beleuchtung und Bodenmarkierungen helfen, Teile und Gruppen zu unterscheiden.
-- In Bibliothek &amp; Speicher siehst du, was Platz belegt. Dort kannst du 3D-Modelle ansehen, gesammelt sichern und wieder ihren Lernzielen zuordnen.
-- Die App-Info bündelt Updates, Versionsverlauf und Lizenzen. Einstellungen und Werkzeuge für Buchaufgaben wurden überarbeitet.
-</description>
-      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.9/viebBook-2.7.9.dmg" length="24287337" type="application/octet-stream" sparkle:edSignature="/NIbyDEaVIT38hGsPIb2oM0Xa59Kyns2TMZafuY7BF4evVvznHLgstXjmk7Ec+oUMeQgHgZsHA5kw4NYWvXDCg==" />
     </item>
     <title>viebBook</title>
     <link>https://github.com/the-shoemaker/viebBook-updates/releases</link>
