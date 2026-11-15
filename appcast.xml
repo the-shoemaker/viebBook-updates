@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>viebBook 2.7.14</title>
+      <pubDate>Sun, 15 Nov 2026 12:47:06 +0000</pubDate>
+      <sparkle:version>547</sparkle:version>
+      <sparkle:shortVersionString>2.7.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>## Schneller zurück zur Übersicht
+
+- Klicke in der Seitenleiste erneut auf den aktiven Bereich, um von einer Unterseite direkt zur Übersicht zurückzukehren.
+- Versionsverlauf und Lizenzen blenden Inhalte beim Scrollen sanft hinter dem Titel aus. Die Zurück-Taste entspricht der in Lernen.
+- Menüoptionen in den Einstellungen zeigen beim Überfahren einen Handzeiger.
+</description>
+      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.14/viebBook-2.7.14.dmg" length="24453062" type="application/octet-stream" sparkle:edSignature="Q49Whm3KcvNjYHZcUHkBWhAtWzImZq5qiV0Lpxn8r8aXSYDswlrXgeRSK6d4S7a/kgjGzi6nlwxnh6VtaDKSCw==" />
+    </item>
+    <item>
       <title>viebBook 2.7.12</title>
       <pubDate>Sun, 15 Nov 2026 00:16:08 +0000</pubDate>
       <sparkle:version>541</sparkle:version>
@@ -62,19 +77,6 @@ macOS 14 oder neuer · Apple Silicon
 - Die App-Info bündelt Updates, Versionsverlauf und Lizenzen. Einstellungen und Werkzeuge für Buchaufgaben wurden überarbeitet.
 </description>
       <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.9/viebBook-2.7.9.dmg" length="24287337" type="application/octet-stream" sparkle:edSignature="/NIbyDEaVIT38hGsPIb2oM0Xa59Kyns2TMZafuY7BF4evVvznHLgstXjmk7Ec+oUMeQgHgZsHA5kw4NYWvXDCg==" />
-    </item>
-    <item>
-      <title>viebBook 2.7.4</title>
-      <pubDate>Fri, 13 Nov 2026 11:36:42 +0000</pubDate>
-      <sparkle:version>513</sparkle:version>
-      <sparkle:shortVersionString>2.7.4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <description>Lernen bündelt Lernblatt, Lernkarten, interaktive Übungen und Probeprüfungen in einem Lernset. Du kannst Lernziele aus Text, Fotos oder Dokumenten übernehmen. Die weiteren Aktivitäten werden im Hintergrund erstellt.
-
-Die Version ergänzt interaktive Diagramme und 3D-Lernmodelle, Last Minute, wiederaufnehmbare Übungsrunden, eine überarbeitete Suche und viebBook-Bundles für Bibliothek und Lernfortschritt.
-</description>
-      <enclosure url="https://github.com/the-shoemaker/viebBook-updates/releases/download/v2.7.4/viebBook-2.7.4.dmg" length="19864596" type="application/octet-stream" sparkle:edSignature="jEQICLivl3kjBCH7w3+gMRh6wG8UbcQTBebVSy+26vRE255dKmHAmQNcqYZpxXeoxNerQC0IXAJf7vYoYmqvBA==" />
     </item>
     <title>viebBook</title>
     <link>https://github.com/the-shoemaker/viebBook-updates/releases</link>
